@@ -1,0 +1,1 @@
+Pickup model placeholder
