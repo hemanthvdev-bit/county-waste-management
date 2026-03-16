@@ -199,15 +199,4 @@ PUT /complaints/{id}
 - Mobile app for drivers
 - Predictive waste analytics
 
----
 
-# License
-
-MIT License
-
----
-
-# Author
-
-Your Name  
-GitHub: https://github.com/YOUR_USERNAME
